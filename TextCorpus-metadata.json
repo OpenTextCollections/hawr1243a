@@ -263,6 +263,14 @@
                         "name": "Media_Type"
                     },
                     {
+                        "datatype": {
+                            "base": "string"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#pathInZip",
+                        "required": false,
+                        "name": "Path_In_Zip"
+                    },
+                    {
                         "datatype": "anyURI",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#downloadUrl",
                         "required": false,
