@@ -9,16 +9,16 @@ eaftextD,application/eaf+xml,https://zenodo.org/records/15419952/files/Corpus%20
 wavtextD,audio/wav,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 4. peɫê merekuř/PM-001-speaker5.wav
 eaftextE,application/eaf+xml,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 5. derdû gulî/DGU-001-speaker4.eaf
 wavtextE,audio/wav,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 5. derdû gulî/DGU-001-speaker4.wav
-eaftextF,application/eaf+xml,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 6. duwê padşɛ/DPSH-001-speaker4.eaf
-wavtextF,audio/wav,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,
-eaftextG,application/eaf+xml,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 7. zemawenû Pîr şelîyarî/ZPIR-001-speaker1.eaf
-wavtextG,audio/wav,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 7. zemawenû Pîr şelîyarî/ZPIR-001-speaker1.wav
+eaftextF,application/eaf+xml,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 10. Şêx ʕumer û Cafir san/JSH-001-speaker5.eaf
+wavtextF,audio/wav,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 10. Şêx ʕumer û Cafir san/JSH-001-speaker5.wav
+eaftextG,application/eaf+xml,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 6. duwê padşɛ/DPSH-001-speaker4.eaf
+wavtextG,audio/wav,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 6. duwê padşɛ/DPSH-001-speaker4.wav
 eaftextH,application/eaf+xml,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 8. jîwayû pîr şelîyarî/ZHPIR-001-speaker1.eaf
 wavtextH,audio/wav,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 8. jîwayû pîr şelîyarî/ZHPIR-001-speaker1.wav
-eaftextI,application/eaf+xml,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 9. babaw Pîr şelîyarî/BBPIR-001-speaker1.eaf
-wavtextI,audio/wav,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 9. babaw Pîr şelîyarî/BBPIR-001-speaker1.wav
-eaftextJ,application/eaf+xml,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 10. Şêx ʕumer û Cafir san/JSH-001-speaker5.eaf
-wavtextJ,audio/wav,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 10. Şêx ʕumer û Cafir san/JSH-001-speaker5.wav
+eaftextI,application/eaf+xml,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 7. zemawenû Pîr şelîyarî/ZPIR-001-speaker1.eaf
+wavtextI,audio/wav,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 7. zemawenû Pîr şelîyarî/ZPIR-001-speaker1.wav
+eaftextJ,application/eaf+xml,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 9. babaw Pîr şelîyarî/BBPIR-001-speaker1.eaf
+wavtextJ,audio/wav,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 9. babaw Pîr şelîyarî/BBPIR-001-speaker1.wav
 eaftextK,application/eaf+xml,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 11. kuřû şuwaney/KSH-001-speaker3.eaf
 wavtextK,audio/wav,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 11. kuřû şuwaney/KSH-001-speaker3.wav
 eaftextL,application/eaf+xml,https://zenodo.org/records/15419952/files/Corpus%20of%20Hewram%C3%AE%20recordings.zip,Corpus of Hewramî recordings/text 12. jenû Heyasî/ZHH-001-speaker3.eaf
